@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Gemini/static/css/main.71e13fbd.css",
+    "main.js": "/Gemini/static/js/main.bb6a2fee.js",
+    "static/js/453.11c624d6.chunk.js": "/Gemini/static/js/453.11c624d6.chunk.js",
+    "static/media/fa-solid-900.ttf": "/Gemini/static/media/fa-solid-900.07ed6d5fa32c1d54af0f.ttf",
+    "static/media/fa-brands-400.ttf": "/Gemini/static/media/fa-brands-400.0ff70dcbf135d859ebf3.ttf",
+    "static/media/fa-solid-900.woff2": "/Gemini/static/media/fa-solid-900.93f719f4d62bfa3e748c.woff2",
+    "static/media/fa-brands-400.woff2": "/Gemini/static/media/fa-brands-400.bb8d5a145e22822103fb.woff2",
+    "static/media/fa-regular-400.ttf": "/Gemini/static/media/fa-regular-400.17a6e1aebccdbaa39e78.ttf",
+    "static/media/fa-regular-400.woff2": "/Gemini/static/media/fa-regular-400.bc3722686635b5f86132.woff2",
+    "static/media/66b777a671c6a_download.jpeg": "/Gemini/static/media/66b777a671c6a_download.4f0ac664ee5e9df0906e.jpeg",
+    "static/media/gallery_icon.png": "/Gemini/static/media/gallery_icon.1da1416be560b7741007.png",
+    "static/media/fa-v4compatibility.ttf": "/Gemini/static/media/fa-v4compatibility.0f6cb412603527bda691.ttf",
+    "static/media/fa-v4compatibility.woff2": "/Gemini/static/media/fa-v4compatibility.6cfec8414be20e2c3426.woff2",
+    "index.html": "/Gemini/index.html",
+    "main.71e13fbd.css.map": "/Gemini/static/css/main.71e13fbd.css.map",
+    "main.bb6a2fee.js.map": "/Gemini/static/js/main.bb6a2fee.js.map",
+    "453.11c624d6.chunk.js.map": "/Gemini/static/js/453.11c624d6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.71e13fbd.css",
+    "static/js/main.bb6a2fee.js"
+  ]
+}
